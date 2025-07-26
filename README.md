@@ -17,7 +17,7 @@ Multi-purpose cybersecurity and networking home lab featuring a custom MERN stac
 
 | Device | Specifications | Role |
 |--------|---------------|------|
-| **Desktop Workstation** | i9 CPU, GTX 1650 GPU, 16GB RAM | SOC Monitoring Station |
+| **Desktop Workstation** | i9 CPU, Security Onion, 32GB RAM | SOC Monitoring Station |
 | **Asus TUF Laptop** | Kali Linux VM | Attack Vector/Penetration Testing |
 | **Dell PowerEdge R220** | Linux Server 24.04.2 | Application Server |
 | **Lenovo ThinkCenter** | Linux Server | Secure Jumpbox |
